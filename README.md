@@ -56,9 +56,10 @@ Revenue & Profit Optimization: Identified sales trends and optimized pricing for
 
 Operational Efficiency: Analyzed shipping methods to reduce delivery costs and improve timelines.
 
-
-**• Screenshots / Demos**
-https://github.com/Jaikr12/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.jpg
 Data-Driven Insights: Provided interactive KPI dashboards for faster decision-making.
 
 Market & Customer Segmentation: Segmented data by customer and region to drive market expansion.
+
+
+**• Screenshots / Demos**
+https://github.com/Jaikr12/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.jpg
