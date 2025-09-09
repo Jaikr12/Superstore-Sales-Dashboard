@@ -62,4 +62,6 @@ Market & Customer Segmentation: Segmented data by customer and region to drive m
 
 
 **• Screenshots / Demos**
+
+
 https://github.com/Jaikr12/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.jpg
